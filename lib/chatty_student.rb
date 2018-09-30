@@ -1,1 +1,1 @@
-require './lib/student.rb'
+require_relative './student.rb'
